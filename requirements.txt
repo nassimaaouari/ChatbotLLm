@@ -1,0 +1,3 @@
+streamlit== 1.40.2pip show 
+flask==2.2.3
+google-generativeai==0.8.3
